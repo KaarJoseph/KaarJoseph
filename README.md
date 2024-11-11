@@ -15,13 +15,9 @@
 
 ---
 
-### 🎧 Mis gustos musicales
+### 🎧 Mi música en Spotify
 <p align="center">
-  Me gusta descubrir música nueva en **Spotify**. ¡Dale un vistazo a mi playlist! 🎶  
-  <br>
-  <a href="https://open.spotify.com/user/22uk6twzqkczc4hvfa3rorf6q">
-    <img src="https://img.shields.io/badge/Spotify-Mi%20Playlist-1DB954?style=for-the-badge&logo=spotify" alt="Spotify Playlist">
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=22uk6twzqkczc4hvfa3rorf6q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="80%">
 </p>
 
 ---
@@ -37,13 +33,25 @@
 ---
 
 ### 📈 Estadísticas de mi GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaarJoseph&show_icons=true&theme=radical&count_private=true&hide=prs"/>
-</p>
+<details>
+  <summary>📊 Mis estadísticas de GitHub</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KaarJoseph&show_icons=true&theme=radical&count_private=true&hide=prs"/>
+  </p>
+</details>
 
-### 🏆 Trofeos en GitHub
+<details>
+  <summary>🏆 Mis trofeos de GitHub</summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=KaarJoseph&theme=gruvbox&no-bg=true&margin-w=15&margin-h=15"/>
+  </p>
+</details>
+
+---
+
+### 🐍 Animación de mi actividad en GitHub
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaarJoseph&theme=gruvbox&no-bg=true&margin-w=15&margin-h=15"/>
+  <img src="https://raw.githubusercontent.com/KaarJoseph/KaarJoseph/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
 </p>
 
 ---
@@ -51,13 +59,6 @@
 ### ✨ Contador de visitas
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KaarJoseph&label=Visitas%20al%20perfil&color=ff69b4&style=flat"/>
-</p>
-
----
-
-### 🐍 Animación de mi actividad en GitHub
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KaarJoseph/KaarJoseph/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
 </p>
 
 ---
