@@ -1,6 +1,6 @@
-# ¡Hola! Soy Joseph 👋
+# ¡Hola! Soy Kaar Joseph 👋
 
-Soy un apasionado de la **Computación Paralela** y el **GPU Computing**. Siempre estoy explorando nuevas tecnologías y optimizando algoritmos para hacer tareas más rápidas y eficientes. Me encanta trabajar con **PyCUDA** y **Python**, y estoy en una constante búsqueda de desafíos en el campo de la programación en paralelo.
+Soy estudiante de Ingeniería en Ciencias Computacionales en la Universidad Politécnica Salesiana en Cuenca, Ecuador. Me interesa explorar diversas tecnologías y herramientas para el desarrollo de software eficiente y de alto rendimiento. Trabajo con Python, PyCUDA, y otros lenguajes y frameworks, buscando siempre mejorar mis habilidades y enfrentar nuevos desafíos en programación.
 
 ---
 
