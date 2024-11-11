@@ -58,7 +58,7 @@
 
 ### 🐍 Animación de mi actividad en GitHub
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KaarJoseph/KaarJoseph/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+  <img src="https://raw.githubusercontent.com/KaarJoseph/KaarJoseph/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation">
 </p>
 
 ---
