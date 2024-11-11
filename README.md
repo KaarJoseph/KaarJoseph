@@ -18,7 +18,7 @@
 ### 🎧 Mi música en Spotify
 <p align="center">
   <a href="https://open.spotify.com/user/22uk6twzqkczc4hvfa3rorf6q" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b8b8f9cf944fc946c39f6c1e" width="80%" alt="Mi música en Spotify">
+    <img src="https://img.youtube.com/vi/jYo6yAQ8mvU/maxresdefault.jpg" width="80%" alt="Mi música en Spotify">
   </a>
 </p>
 
