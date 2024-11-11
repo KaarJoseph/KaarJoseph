@@ -18,12 +18,12 @@
 ### 🎧 Mi música en Spotify
 <p align="center">
   <a href="https://open.spotify.com/user/22uk6twzqkczc4hvfa3rorf6q" target="_blank">
-    <img src="https://img.youtube.com/vi/jYo6yAQ8mvU/maxresdefault.jpg" width="80%" alt="Mi música en Spotify">
+    <img src="spotify.gif" width="80%" alt="Mi música en Spotify">
   </a>
 </p>
 
 <p align="center">
-  <strong>🎧 Escucha lo que me inspira:</strong> Da clic en la imagen para conocer las canciones que estoy escuchando actualmente. ¡Sígueme en Spotify para más!
+  <strong>🎧 Escucha lo que me inspira:</strong> Da clic en el GIF para conocer las canciones que estoy escuchando actualmente. ¡Sígueme en Spotify para más!
 </p>
 
 ---
