@@ -10,7 +10,7 @@
 
 ### 🚀 Tecnologías que manejo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,flask,docker,git,tensorflow,pytorch,linux,windows&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,angular,flask,django,docker,git,mysql,firebase,linux,androidstudio,html,css,opencv&theme=light"/>
 </p>
 
 ---
