@@ -37,7 +37,7 @@
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,vscode,visualstudio,eclipse,docker,git,linux&theme=dark"/>
-  <img src="https://img.icons8.com/color/48/fa9c1d/jupyter.png" alt="Jupyter Notebook" style="margin: 0 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png" alt="Jupyter Notebook" style="margin: 0 10px;"/>
 </p>
 
 ---
