@@ -9,7 +9,14 @@
 ---
 
 ### 🚀 Tecnologías que manejo
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header&text=Lenguajes%20de%20Programación&fontSize=15&fontColor=fff"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=light"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header&text=Frameworks%20y%20Librerías&fontSize=15&fontColor=fff"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=angular,flask,django,spring,opencv,firebase&theme=light"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header&text=Bases%20de%20Datos&fontSize=15&fontColor=fff"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,postgresql,sqlite&theme=light"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header&text=Herramientas%20y%20Entornos%20de%20Desarrollo&fontSize=15&fontColor=fff"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=anaconda,jupyter,androidstudio,vscode,visualstudio,eclipse,docker,git,linux&theme=light"/> </p>
+Lenguajes de Programación
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=light" alt="Lenguajes de Programación"/> </p>
+Frameworks y Librerías
+<p align="center"> <img src="https://skillicons.dev/icons?i=angular,flask,django,spring,opencv,firebase&theme=light" alt="Frameworks y Librerías"/> </p>
+Bases de Datos
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" alt="Bases de Datos"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" style="margin: 0 10px;"/> <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" style="margin: 0 10px;"/> <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" style="margin: 0 10px;"/> </p>
+Herramientas y Entornos de Desarrollo
+<p align="center"> <img src="https://skillicons.dev/icons?i=anaconda,jupyter,androidstudio,vscode,visualstudio,eclipse,docker,git,linux&theme=light" alt="Herramientas y Entornos de Desarrollo"/> </p>
 
 ---
 
