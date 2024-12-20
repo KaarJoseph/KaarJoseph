@@ -36,11 +36,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header&text=Herramientas%20y%20Entornos%20de%20Desarrollo&fontSize=15&fontColor=fff"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda"/>
-  <img src="https://img.icons8.com/color/48/fa9c1d/jupyter.png" alt="Jupyter Notebook" style="margin-left: 15px;"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,docker,git,linux&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,vscode,visualstudio,eclipse,docker,git,linux&theme=dark"/>
+  <img src="https://img.icons8.com/color/48/fa9c1d/jupyter.png" alt="Jupyter Notebook" style="margin: 0 10px;"/>
 </p>
-
 
 ---
 
