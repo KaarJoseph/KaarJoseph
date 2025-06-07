@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=¡Hola!%20Soy%20Kaar%20Joseph%20👋&fontAlign=50&fontAlignY=40&color=gradient"/>
-</p>
-
-<p align="center">
-  Soy Ingeniero en Ciencias Computacionales en la Universidad Politécnica Salesiana, Cuenca, Ecuador. Me gusta explorar tecnologías y herramientas para desarrollar software eficiente y de alto rendimiento. Trabajo con Python, PyCUDA, y otros lenguajes y frameworks, mejorando mis habilidades y enfrentando nuevos desafíos en programación.
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=¡Hola!%20Soy%20Kaar%20Joseph%20👋&fontAlign=50&fontAlignY=40&color=gradient"/> 
+</p> 
+<p align="center"> 
+  Ingeniero en Ciencias Computacionales, graduado de la Universidad Politécnica Salesiana en Cuenca, Ecuador. Como parte de la cultura Shuar, llevo conmigo una visión única de la innovación, combinando tradición y tecnología. Mi enfoque está en explorar, diseñar y construir soluciones tecnológicas de alto impacto y rendimiento. 
+</p> 
+<p align="center"> 
+  He trabajado con diversas herramientas y lenguajes como Python, PyCUDA, Java, Go y más, además de frameworks y entornos especializados en machine learning y procesamiento de datos. Mi pasión es empujar los límites de lo posible, aprender nuevas tecnologías y enfrentar desafíos complejos para crear software que inspire y transforme. 
 </p>
 
 ---
