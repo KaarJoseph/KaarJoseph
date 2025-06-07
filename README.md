@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Soy estudiante de Ingeniería en Ciencias Computacionales en la Universidad Politécnica Salesiana, Cuenca, Ecuador. Me gusta explorar tecnologías y herramientas para desarrollar software eficiente y de alto rendimiento. Trabajo con Python, PyCUDA, y otros lenguajes y frameworks, mejorando mis habilidades y enfrentando nuevos desafíos en programación.
+  Soy Ingeniero en Ciencias Computacionales en la Universidad Politécnica Salesiana, Cuenca, Ecuador. Me gusta explorar tecnologías y herramientas para desarrollar software eficiente y de alto rendimiento. Trabajo con Python, PyCUDA, y otros lenguajes y frameworks, mejorando mis habilidades y enfrentando nuevos desafíos en programación.
 </p>
 
 ---
@@ -13,7 +13,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=25&section=header&text=Lenguajes%20de%20Programación&fontSize=15&fontColor=fff"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,go&theme=dark"/>
 </p>
 
 <p align="center">
